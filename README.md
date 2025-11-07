@@ -1,6 +1,9 @@
 # AMD-Sound-Suppression-25.9.1
 Archive of AMD Sound Suppression Version 25.9.1 as the new version 25.10.2 is does not support Windows 10 EOL
 
+If you are here because your noise suppression has stopped working on windows 10, please just install the offical 25.9.1 version, I am just archiving this incase AMD removes support for this update in the future.
+https://www.amd.com/en/support/download/drivers.html
+
 VirusTotal checks to show no modifications have been made to the original files.
 
 AMDNoiseSuppression.exe
